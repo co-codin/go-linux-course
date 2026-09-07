@@ -1,0 +1,10 @@
+**/lesson0[0-9]
+**/lesson1[0-2]
+**/d0[1-8]
+**/grpc-lab/grpc-lab
+*.exe
+*.test
+/tmp/
+lesson*/lesson*
+deep/d*/d0*
+deep/grpc-lab/grpc-lab
