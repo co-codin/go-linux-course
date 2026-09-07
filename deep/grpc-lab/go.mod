@@ -1,0 +1,16 @@
+module grpclab
+
+go 1.25.0
+
+require (
+	google.golang.org/grpc v1.83.2
+	google.golang.org/grpc/examples v0.0.0-20260904081815-298389d61dd6
+)
+
+require (
+	golang.org/x/net v0.58.0 // indirect
+	golang.org/x/sys v0.47.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20260817212433-ac3dfec99bb1 // indirect
+	google.golang.org/protobuf v1.36.12 // indirect
+)
